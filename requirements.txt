@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+torch
+scikit-learn
+pydantic
+requests
+python-dotenv
